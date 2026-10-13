@@ -38,4 +38,4 @@ El proyecto está organizado en una arquitectura limpia mediante una **máquina 
 1. Descargar e instalar [LÖVE2D](https://love2d.org/).
 2. Clonar este repositorio:
    ```bash
-   git clone [https://github.com/TU_USUARIO/ecocatch_cs50.git](https://github.com/TU_USUARIO/ecocatch_cs50.git)
+   git clone [https://github.com/apieronist/ecocatch_cs50.git](https://github.com/apieronist/ecocatch_cs50.git)
