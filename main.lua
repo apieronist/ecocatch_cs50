@@ -1,3 +1,15 @@
+-- ============================================================================
+-- Proyecto Final CS50: EcoCatch - Reciclaje Activo
+-- Archivo: main.lua
+-- 
+-- DECLARACIÓN DE ASISTENCIA DE IA:
+-- Este código fue desarrollado con el apoyo de Gemini (herramienta de IA) 
+-- para estructurar la lógica del bucle de juego (love.load, love.update, 
+-- love.draw), la gestión de estados (menu, playing, gameover) y las 
+-- rutinas de colisión y partículas. La arquitectura, diseño y autoría final 
+-- del proyecto corresponden al alumno.
+-- ============================================================================
+
 -- EcoCatch - Reciclaje Activo con Fondo Colorido y Animado (CS50 Final Project)
 
 function love.load()
@@ -32,7 +44,7 @@ function love.load()
     spawnTimer = 0
     spawnInterval = 1.2
 
-    -- Partículas de fondo animadas para dar dinamismo
+    -- Partículas de fondo animadas para dar dinamismo (asistido por IA)
     bgParticles = {}
     for i = 1, 20 do
         table.insert(bgParticles, {

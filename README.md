@@ -39,3 +39,9 @@ El proyecto está organizado en una arquitectura limpia mediante una **máquina 
 2. Clonar este repositorio:
    ```bash
    git clone <https://github.com/apieronist/ecocatch_cs50.git>
+
+--- 
+
+## Recursos y Créditos
+
+* **Imágenes de ítems y contenedor (`assets/`):** Imágenes de uso libre obtenidas de repositorios de recursos web de dominio público / Creative Commons para ilustrar el proyecto.   
